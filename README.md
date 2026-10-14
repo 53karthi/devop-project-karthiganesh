@@ -1,1 +1,5 @@
-# devop-project-karthiganesh
+<!DOCTYPE html>
+<html>
+  <head><title>Hello from CodePipeline</title></head>
+  <body><h1>It works!</h1></body>
+</html>
